@@ -1,0 +1,20 @@
+{
+    "update_url": "https://clients2.google.com/service/update2/crx",
+    "name": "__MSG_appName__",
+    "description": "__MSG_appDesc__",
+    "default_locale": "da",
+    "version": "0.0.1",
+    "permissions": [
+        "contextMenus",
+        "tabs"
+    ],
+    "background": {
+        "scripts": [
+            "ddo.js"
+        ]
+    },
+    "icons": {
+        "128": "lion_128x128.png"
+    },
+    "manifest_version": 2
+}

@@ -1,0 +1,12 @@
+{
+    "appName": {
+        "message": "Den Danske Ordbog ",
+        "description": "Slå et ord op på Den Danske Ordbog ordnet.dk/ddo"
+    },
+    "appDesc": {
+        "message": "Føjer et højre-klik til ethvert ord på en webside, hvorefter der kan søges på ordnet.dk/ddo.
+\n Ingen tilknytning til Det Danske Sprog- og Litteraturselskab",
+        "description": "Føjer et højre-klik til ethvert ord på en webside, hvorefter der kan søges på ordnet.dk/ddo.
+\n Ingen tilknytning til Det Danske Sprog- og Litteraturselskab."
+    }
+}
